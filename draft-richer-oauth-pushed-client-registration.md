@@ -24,8 +24,7 @@ venue:
   latest: https://example.com/LATEST
 
 author:
-  -
-    ins: J. Richer
+  - ins: J. Richer
     name: Justin Richer
     organization: Bespoke Engineering
     email: ietf@justin.richer.org
