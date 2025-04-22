@@ -1,13 +1,32 @@
-# Internet-Draft Template Repository
+<!-- regenerate: on (set to off if you edit this file) -->
 
-Use this repository as a template if you want to start working on
-[IETF](https://www.ietf.org/) documents. [Click here to create a new repository using the
-template](https://github.com/martinthomson/internet-draft-template/generate).
-Make sure to check "Include all branches", or you will need to enable GitHub Pages manually.
+# OAuth Pushed Client Registration
 
-[Read the
-instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLATE.md)
-for more information.
+This is the working area for the individual Internet-Draft, "OAuth Pushed Client Registration".
 
-Once you have created your own repository, start work by
-[renaming the `draft-todo-yourname-protocol.md` file](../../edit/main/draft-todo-yourname-protocol.md).
+* [Editor's Copy](https://bspk.github.io/draft-richer-oauth-pushed-client-registration/#go.draft-richer-oauth-pushed-client-registration.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-richer-oauth-pushed-client-registration)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-richer-oauth-pushed-client-registration)
+* [Compare Editor's Copy to Individual Draft](https://bspk.github.io/draft-richer-oauth-pushed-client-registration/#go.draft-richer-oauth-pushed-client-registration.diff)
+
+
+## Contributing
+
+See the
+[guidelines for contributions](https://github.com/bspk/draft-richer-oauth-pushed-client-registration/blob/main/CONTRIBUTING.md).
+
+Contributions can be made by creating pull requests.
+The GitHub interface supports creating pull requests using the Edit (✏) button.
+
+
+## Command Line Usage
+
+Formatted text and HTML versions of the draft can be built using `make`.
+
+```sh
+$ make
+```
+
+Command line usage requires that you have the necessary software installed.  See
+[the instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/SETUP.md).
+

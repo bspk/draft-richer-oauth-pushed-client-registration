@@ -1,0 +1,3 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-richer-oauth-pushed-client-registration.md ietf@justin.richer.org aaron@parecki.com
