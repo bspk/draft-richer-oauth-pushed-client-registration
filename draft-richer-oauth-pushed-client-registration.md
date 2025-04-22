@@ -125,6 +125,7 @@ HTTP 200 OK
    "request_uri": "urn:example:g012h340-4j138fha",
    "expires_in": 90
  }
+~~~
 
 ## Authorization Request and Response
 
