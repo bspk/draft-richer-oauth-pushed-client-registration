@@ -1,12 +1,9 @@
 ---
 title: "OAuth Pushed Client Registration"
-abbrev: "OAuth PCR"
 category: std
 
 docname: draft-richer-oauth-pushed-client-registration-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
-number:
-date:
+submissiontype: IETF
 consensus: true
 v: 3
 area: SEC
@@ -36,13 +33,13 @@ author:
     uri: https://aaronparecki.com
 
 normative:
-  - RFC7591:
-  - RFC7636:
-  - RFC8414:
-  - RFC8705:
-  - RFC8792:
-  - RFC9126:
-  - RFC9449:
+  RFC7591:
+  RFC7636:
+  RFC8414:
+  RFC8705:
+  RFC8792:
+  RFC9126:
+  RFC9449:
 
 informative:
 
@@ -205,7 +202,7 @@ When receiving a client_id value of `urn:ietf:oauth:parameters:dynamic`, the AS 
 An AS supporting this extension that publishes its metadata using {{RFC8414}} MUST indicate its support by including the key:
 
 "pushed_client_registration_supported":
-: A boolean value indicating that this specification is supported and accepted by the AS. 
+: A boolean value indicating that this specification is supported and accepted by the AS.
 
 # Security Considerations
 
