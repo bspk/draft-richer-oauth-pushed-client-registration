@@ -5,8 +5,8 @@
 WG Working Group                                               J. Richer
 Internet-Draft                                       Bespoke Engineering
 Intended status: Standards Track                              A. Parecki
-Expires: 24 October 2025                                            Okta
-                                                           22 April 2025
+Expires: 26 April 2026                                              Okta
+                                                         23 October 2025
 
 
                     OAuth Pushed Client Registration
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 24 October 2025.
+   This Internet-Draft will expire on 26 April 2026.
 
 Copyright Notice
 
@@ -75,7 +75,7 @@ Table of Contents
    3.  Protocol Flow
      3.1.  Pushed Authorization Request and Response
      3.2.  Authorization Request and Response
-     3.3.  Toiken Request and Response
+     3.3.  Token Request and Response
      3.4.  Token Expiration and Refresh
    4.  Client Identifier
    5.  Discoverable Support
@@ -240,7 +240,7 @@ client_id=urn:ietf:oauth:parameters:dynamic\
    of state to the stored state value to ensure they are equal to the
    one the client is expecting.
 
-3.3.  Toiken Request and Response
+3.3.  Token Request and Response
 
    The client takes the authorization code and sends it to the AS in
    exchange for a token.  In this example, the client is requesting a
