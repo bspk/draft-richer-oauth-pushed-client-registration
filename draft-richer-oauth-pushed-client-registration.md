@@ -150,7 +150,7 @@ Location: https://client.example.org/cb?\
 
 When the client receives this request, the client compares the value of `state` to the stored state value to ensure they are equal to the one the client is expecting.
 
-## Toiken Request and Response
+## Token Request and Response
 
 The client takes the authorization code and sends it to the AS in exchange for a token. In this example, the client is requesting a DPoP bound access token.
 
