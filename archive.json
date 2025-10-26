@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-10-23T00:51:36.419757+00:00",
+  "timestamp": "2025-10-26T00:54:58.016766+00:00",
   "repo": "bspk/draft-richer-oauth-pushed-client-registration",
   "labels": [
     {
@@ -50,5 +50,34 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOOcyxbM6vVYeX",
+      "title": "fix: minor title rename",
+      "url": "https://github.com/bspk/draft-richer-oauth-pushed-client-registration/pull/1",
+      "state": "MERGED",
+      "author": "0xandybarlow",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "tiny pr for slight spelling error I spotted during IIW session.",
+      "createdAt": "2025-10-23T18:21:49Z",
+      "updatedAt": "2025-10-23T18:24:14Z",
+      "baseRepository": "bspk/draft-richer-oauth-pushed-client-registration",
+      "baseRefName": "main",
+      "baseRefOid": "74966d85faaa7b2a7937ae833d12c722ddb0fc40",
+      "headRepository": "0xandybarlow/draft-richer-oauth-pushed-client-registration",
+      "headRefName": "minor-fix-title",
+      "headRefOid": "283fb77acb6aec8169dbea394c5d9b13c8d9c1fb",
+      "closedAt": "2025-10-23T18:24:14Z",
+      "mergedAt": "2025-10-23T18:24:14Z",
+      "mergedBy": "aaronpk",
+      "mergeCommit": {
+        "oid": "94721bb15ce22a3e12f184eb33f67000d15421d5"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
